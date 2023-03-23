@@ -1,5 +1,3 @@
- (7 sloc)  290 Bytes
-
 #ifndef FUNCTION_POINTERS_H
 
 #define FUNCTION_POINTERS_H
